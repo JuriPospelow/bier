@@ -1,4 +1,4 @@
-# biers
+# bier
 ein Beispiel mit abstrakten Klassen. 
 Das Programm war unter Qt 5.9.5 (x86_64-little_endian-lp64 shared (dynamic) release build; by GCC 7.4.0) getstet.
 Hier ist eine Terminal Ausgabe:
